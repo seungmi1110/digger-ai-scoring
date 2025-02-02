@@ -1,19 +1,19 @@
 [[pages]]
-path = "pages/use.py"
+path = "../pages/use.py"
 name = "AI 채점조교 사용하기"
 icon = ":wrench:"
 
 [[pages]]
-path = "pages/intro.py"
+path = "../pages/intro.py"
 name = "소개"
 icon = ":page_facing_up:"
 
 [[pages]]
-path = "pages/guide.py"
+path = "../pages/guide.py"
 name = "사용법"
 icon = ":open_book:"
 
 [[pages]]
-path = "pages/settings.py"
+path = "../pages/settings.py"
 name = "설정"
 icon = ":gear:"
