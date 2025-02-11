@@ -8,7 +8,7 @@ sections = st.sidebar.toggle("Sections", value=True, key="use_sections")
 
 # 네비게이션 로드
 nav = get_nav_from_toml(
-    "streamlit/pages.toml"
+    "streamlits/pages.toml"
 )
 
 # 네비게이션
